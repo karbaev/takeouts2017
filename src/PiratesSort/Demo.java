@@ -10,7 +10,7 @@ import java.util.List;
 public class Demo {
     public static void main(String[] args) throws CloneNotSupportedException {
         List<DataNode> nodeList = new ArrayList<>();
-        nodeList.add(new DataNode("Bill", 200));
+        nodeList.add(new DataNode("Bill1", 200));
         nodeList.add(new DataNode("Silver", 100));
         nodeList.add(new DataNode("One-leg", 5));
 
